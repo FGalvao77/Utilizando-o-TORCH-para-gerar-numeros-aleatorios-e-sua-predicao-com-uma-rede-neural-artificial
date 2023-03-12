@@ -1,0 +1,1 @@
+# Utilizando-o-TORCH-para-gerar-numeros-aleatorios-e-sua-predicao-com-uma-rede-neural-artificial
